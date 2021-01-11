@@ -8,6 +8,7 @@ import plotly.graph_objects as go
 import pandas as pd
 
 app = dash.Dash(__name__)
+server = app.server
 
 df = pd.read_csv('pred1.csv')
 dff = pd.read_csv('pred5.csv')
