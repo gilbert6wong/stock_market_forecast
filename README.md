@@ -6,7 +6,7 @@
 
 ## Project Intro/Objective
 
-The purpose of this project is to gain familiarty with the application of deep learning in a finance domain, specifically in stock market forecasting. The reason for utilizing neural networks is so that we can the capture comeplex and non-linear trends that traditional ARIMA models fail to. 
+The purpose of this project is to gain familiarty with the application of deep learning in a finance domain, specifically in stock market forecasting. The reason for utilizing neural networks is so that we can the capture complex and non-linear trends that traditional ARIMA models fail to. 
 
 ### Methods Used
 * Single Layer LSTM
