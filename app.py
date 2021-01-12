@@ -16,7 +16,7 @@ dff = pd.read_csv('pred5.csv')
 
 app.layout = html.Div([
     
-    html.H1("Friday January 8th, 2020",style={'text-align':'center'}),
+    html.H1("Friday January 8th, 2021",style={'text-align':'center'}),
     html.H5("Training: 12/27/1950 - 12/24/2020",style={'text-align':'center'}),
 
     dcc.Dropdown(id="slct_year",
