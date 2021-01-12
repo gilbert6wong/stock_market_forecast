@@ -1,5 +1,7 @@
 # Stock Market Forecast
 
+#### Heroku App - https://evening-dusk-74419.herokuapp.com/
+
 #### -- Project Status: Active
 
 ## Project Intro/Objective
@@ -23,7 +25,7 @@ The purpose of this project is to use deep learning to develop a stock market fo
 
 ## Project Description
 
-In this project, we use S&P500 historical data collected from Yahoo Finance. The models are trained opening prices from December 27th 1950 to December 24th 2020. The model is then used to make two predictions: next day prediction and 5 day prediction. Finally, an app is created where the user can see how well the model captures the stock prices and the prediction for the selected timeframe. 
+In this project, we use S&P500 historical data collected from Yahoo Finance. The models are trained on opening prices from December 27th 1950 to December 24th 2020. The model is then used to make two predictions: next day prediction and 5 day prediction. Finally, an app is created where the user can see how well the model captures the stock prices and the prediction for the selected timeframe. 
 
 ## Findings
 
